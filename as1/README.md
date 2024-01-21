@@ -17,10 +17,10 @@ Here are some examples of how to interact with the contract in Remix:
 ![Deploying the Contract](screenshots/deploy_contract.png)
 
 #### Calling `getLatestTransactionTimestamp`
-![Calling getLatestTransactionTimestamp](screenshots/get_latest_timestamp.png)
+![Calling getLatestTransactionTimestamp](screenshots/getLatestTransactionTimestamp.png)
 
 #### Calling `getTransactionSender`
-![Calling getTransactionSender](screenshots/get_transaction_sender.png)
+![Calling getTransactionSender](screenshots/getTransactionSender.png)
 
 #### Calling `getTransactionReceiver`
-![Calling getTransactionReceiver](screenshots/get_transaction_receiver.png)
+![Calling getTransactionReceiver](screenshots/getTransactionReceiver.png)
